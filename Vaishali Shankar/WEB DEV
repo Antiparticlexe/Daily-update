@@ -1,1 +1,7 @@
+vaishali notes-Day1(DEC-2)
+---->using passport and mongoose package to authenticate users in express
+---->creating user schema for authentication
 
+Day2(DEC-3)
+---->created signup page and routes for the same
+---->Created login page and routes for the same
